@@ -1,0 +1,13 @@
+{
+    "posts" : [
+        {
+            "id": 1,
+            "patient": "Mathias Villasanti",
+            "doctor": "Miguel Borja",
+            "date": "27/08/2021",
+            "hour": "10:00",
+            "insurance": "Unimed",
+            "newappointment": "Sim"
+        }
+    ]
+}
